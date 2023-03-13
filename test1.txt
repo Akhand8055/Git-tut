@@ -1,1 +1,2 @@
 Hello everyone, this is Akhand Pratap Mall and I am here to learn Git and GitHub in a detailed manner.
+I am adding more lines to make my second commit and pull these changes to my local repository.
