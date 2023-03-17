@@ -1,0 +1,23 @@
+[33mcommit 36896c68409f3ba9c360506f39e158b5b89e79f5[m[33m ([m[1;36mHEAD -> [m[1;32mbranch1[m[33m)[m
+Author: Akhand Pratap Mall <akhand8500@gmail.com>
+Date:   Fri Mar 17 13:28:02 2023 +0530
+
+    Commit 4
+
+[33mcommit c13b4103fc9c0bc27dcda1414eeb20efd5e9b81f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Akhand8055 <112008874+Akhand8055@users.noreply.github.com>
+Date:   Fri Mar 17 13:12:15 2023 +0530
+
+    Update test1.txt
+
+[33mcommit 88d015db911c7f725029045ebf8bf761980baa06[m
+Author: Akhand8055 <112008874+Akhand8055@users.noreply.github.com>
+Date:   Mon Mar 13 19:06:17 2023 +0530
+
+    Changes to pull in local repository (Commit 2)
+
+[33mcommit b0a987f0dd1e6945152cac60dd26fae10d29f540[m
+Author: Akhand Pratap Mall <akhand8500@gmail.com>
+Date:   Mon Mar 13 18:53:18 2023 +0530
+
+    Learning git with my first commit
